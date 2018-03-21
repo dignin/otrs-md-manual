@@ -1,3 +1,5 @@
+.. image:: images/otrsfree.png
+
 Welcome
 =======
 
