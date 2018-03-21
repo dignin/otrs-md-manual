@@ -1,6 +1,6 @@
 .. image:: images/otrsfree.png
    :class: banner_header
-   :align: middle
+   :align: center
 
 Welcome
 =======
