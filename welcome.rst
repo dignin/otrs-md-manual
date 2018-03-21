@@ -1,4 +1,5 @@
 .. image:: images/otrsfree.png
+   :align: middle
 
 Welcome
 =======
