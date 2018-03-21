@@ -1,1 +1,5 @@
+# Hide the lacal build directory from git. 
 _build/*
+
+# Hide vim swap files from git.
+.swp
