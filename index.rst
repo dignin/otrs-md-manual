@@ -8,9 +8,11 @@ Welcome to OTRS Free documentation!
 
 .. rst-class:: toc
 
-+-----------------------------------------+--------------------------+
-|   :ref:`about-otrs`                     |   :ref:`install-otrs`    |
-+-----------------------------------------+--------------------------+
++--------------------------+--------------------------+
+|   :ref:`about-otrs`      |   :ref:`install-otrs`    |
++--------------------------+--------------------------+
+|   :ref:`appendixes`      |                          |
++--------------------------+--------------------------+
 
 
 .. _about-otrs:
@@ -31,3 +33,11 @@ Welcome to OTRS Free documentation!
    :caption: Installing OTRS
 
    source-install
+
+
+.. _appendixes:
+   :numbered:
+   :maxdepth: 2
+   :caption: Appendixes
+
+   service-assistanace
