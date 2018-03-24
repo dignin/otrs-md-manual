@@ -6,9 +6,28 @@
 Welcome to OTRS Free documentation!
 ===================================================
 
+.. rst-class:: toc
+
++-----------------------------------------+--------------------------+
+|   :ref:`about-otrs`                     |   :ref:`install-otrs`    |
++-----------------------------------------+--------------------------+
+
+
+.. _about-otrs:
+
 .. toctree::
    :numbered:
    :maxdepth: 2
-   :caption: Contents:
+   :caption: About OTRS
 
    welcome
+
+
+.. _install-otrs:
+
+.. toctree::
+   :numbered:
+   :maxdepth: 2
+   :caption: Installing OTRS
+
+   source-install
